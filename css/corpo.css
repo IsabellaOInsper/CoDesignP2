@@ -1,33 +1,39 @@
 body {
- font-size: 18px;   
+ font-size: 18px;
+ height:1294px;
+ width:750px;	
+ background-image: url(../imagens/fundo.jpg);
 }
-.orange-circle-button {
+.botao1 {
 	box-shadow: 2px 4px 0 2px rgba(0,0,0,0.1);
 	border: .5em solid #E84D0E;
 	font-size: 1em;
 	line-height: 1.1em;
 	color: #ffffff;
 	background-color: #e84d0e;
-	margin: auto;
-	border-radius: 10%;
+	margin: 23px;
+	margin-bottom: 55px;
+	border-radius: 13%;
 	height: 17em;
 	width: 17em;
 	position: relative;
+	top: 340px;
+	left: 140px;
 }
-.orange-circle-button:hover {
+.botao1:hover {
 	color:#ffffff;
     background-color: #e84d0e;
 	text-decoration: none;
 	border-color: #ff7536;
 	
 }
-.orange-circle-button:visited {
+.botao1:visited {
 	color:#ffffff;
     background-color: #e84d0e;
 	text-decoration: none;
 	
 }
-.orange-circle-link-greater-than {
+.botao1-link {
     font-size: 1em;
 }
 
