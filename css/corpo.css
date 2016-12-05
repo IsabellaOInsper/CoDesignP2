@@ -2,15 +2,17 @@ body {
  font-size: 18px;
  height:1294px;
  width:750px;	
- background-image: url(../imagens/fundo.jpg);
+ background-color: #F7F3F5;
 }
 .botao1 {
 	box-shadow: 2px 4px 0 2px rgba(0,0,0,0.1);
-	border: .5em solid #E84D0E;
+	border: .5em solid #BA0126;
 	font-size: 1em;
 	line-height: 1.1em;
-	color: #ffffff;
-	background-color: #e84d0e;
+	color: #2F2D2E;
+	background-image: url("../imagens/Untitled 2.png");
+	background-size: 17em 17em;
+	background-color: #BA0126;
 	margin: 23px;
 	margin-bottom: 55px;
 	border-radius: 13%;
@@ -21,10 +23,10 @@ body {
 	left: 140px;
 }
 .botao1:hover {
-	color:#ffffff;
-    background-color: #e84d0e;
+	color: #2F2D2E;
+    background-color: #BA0126;
 	text-decoration: none;
-	border-color: #ff7536;
+	border-color: #CC4661;
 	
 }
 .botao1:visited {
@@ -44,4 +46,16 @@ footer {
   left: 0;
   padding: 0rem;
   text-align: center;
+}
+.thumbnail-wrapper {
+    display:inline-block;
+    position:relative;
+}
+.thumbnail-wrapper button {
+    position:absolute;
+    top:50%;
+    left:50%;
+    -webkit-transform:translate3d(-50%, -50%, 0);
+    -moz-transform:translate3d(-50%, -50%, 0);
+    transform:translate3d(-50%, -50%, 0);
 }
