@@ -29,8 +29,8 @@ body {
 	
 }
 .botao1:visited {
-	color:#ffffff;
-    background-color: #e84d0e;
+	color:#2F2D2E;
+    background-color: #BA0126;
 	text-decoration: none;
 	
 }
@@ -45,4 +45,44 @@ footer {
   left: 0;
   padding: 0rem;
   text-align: center;
+}
+.botao2 {
+	box-shadow: 2px 4px 0 2px rgba(0,0,0,0.1);
+	border: .5em solid #BA0126;
+	font-size: 1em;
+	line-height: 1.1em;
+	color: #2F2D2E;
+	background-color: #BA0126;
+	background-size: 5em 25em;
+	margin: 23px;
+	margin-bottom: 133px;
+	border-radius: 13%;
+	height: 5em;
+	width: 25em;
+	position: relative;
+	top: 340px;
+	left: 230px;
+}
+.botao2:hover {
+	color: #2F2D2E;
+    background-color: #BA0126;
+	text-decoration: none;
+	border-color: #CC4661;
+	
+}
+.botao2:visited {
+	color:#2F2D2E;
+    background-color: #BA0126;
+	text-decoration: none;
+	
+}
+.botao2-link {
+    font-size: 1em;
+}
+.cor_do_cabecalho {
+	color: #D7C0A7;
+	background-color: #2F2D2E;
+	z-index: +2
+
+	position: absolute;
 }
