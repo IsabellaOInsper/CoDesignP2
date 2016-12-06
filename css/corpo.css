@@ -1,8 +1,8 @@
 body {
  font-size: 18px;
- height:1294px;
- width:750px;	
- background-color: #F7F3F5;
+ height:1743px;
+ width:980px;	
+ background-image: url('../imagens/fundo.png');
 }
 .botao1 {
 	box-shadow: 2px 4px 0 2px rgba(0,0,0,0.1);
@@ -11,6 +11,7 @@ body {
 	line-height: 1.1em;
 	color: #2F2D2E;
 	background-color: #BA0126;
+	background-image: url('../imagens/requerimentos.png');
 	background-size: 17em 17em;
 	margin: 23px;
 	margin-bottom: 55px;
@@ -86,3 +87,4 @@ footer {
 
 	position: absolute;
 }
+{background-color: #F7F3F5;}
