@@ -485,6 +485,12 @@ footer {
  width:980px;	
  background-image: url('../imagens/sobre.png');
 }
+.conv{
+ font-size: 18px;
+ height:1743px;
+ width:980px;	
+ background-image: url('../imagens/conversa.png');
+}
 .onoffswitch {
     position: relative; 
     width: 90px;
