@@ -5,21 +5,12 @@ body {
  background-image: url('../imagens/fundo.png');
 }
 .botao1 {
-	box-shadow: 2px 4px 0 2px rgba(0,0,0,0.1);
-	border: .5em solid #BA0126;
-	font-size: 1em;
-	line-height: 1.1em;
-	color: #2F2D2E;
-	background-color: #BA0126;
-	background-image: url('../imagens/requerimentos.png');
-	background-size: 17em 17em;
-	margin: 23px;
-	margin-bottom: 55px;
-	border-radius: 13%;
-	height: 17em;
-	width: 17em;
-	position: relative;
-	top: 340px;
+	border: .0em solid #BA0126;
+	background-color: transparent;
+	background-size: 8em 35em;
+	height: 9em;
+	width: 35em;
+	top: -80px;
 	left: 140px;
 }
 .botao11 {
@@ -487,6 +478,12 @@ footer {
  height:1743px;
  width:980px;	
  background-image: url('../imagens/configuracao.png');
+}
+.sobre{
+ font-size: 18px;
+ height:1743px;
+ width:980px;	
+ background-image: url('../imagens/sobre.png');
 }
 .onoffswitch {
     position: relative; 
