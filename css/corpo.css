@@ -461,7 +461,7 @@ body {
 	width: 19em;
 	position: relative;
 	top: 340px;
-	left: 340px;
+	left: 300px;
 }
 
 .botao36 {
@@ -479,7 +479,7 @@ body {
 	height: 6em;
 	width: 10em;
 	position: relative;
-	top: 100px;
+	top: 0px;
 	left: 400px;
 }
 .botao1:hover {
