@@ -276,13 +276,13 @@ body {
 }
 .botao33 {
 	box-shadow: 2px 4px 0 2px rgba(0,0,0,0.1);
-	border: .5em solid #BA0126;
+	border: 0em solid #BA0126;
 	font-size: 1em;
 	line-height: 1.1em;
 	color: #2F2D2E;
 	background-color: #BA0126;
-	background-image: url('../imagens/female.png');
-	background-size: 16em 16em;
+	background-image: url('../imagens/notas.jpg');
+	background-size: 17em 45em;
 	margin: 23px;
 	margin-bottom: 55px;
 	border-radius: 1%;
@@ -294,13 +294,13 @@ body {
 }
 .botao34 {
 	box-shadow: 2px 4px 0 2px rgba(0,0,0,0.1);
-	border: .5em solid #BA0126;
+	border: 0em solid #BA0126;
 	font-size: 1em;
 	line-height: 1.1em;
 	color: #2F2D2E;
 	background-color: #BA0126;
-	background-image: url('../imagens/male.png');
-	background-size: 17em 17em;
+	background-image: url('../imagens/notas.jpg');
+	background-size: 17em 45em;
 	margin: 23px;
 	margin-bottom: 55px;
 	border-radius: 1%;
